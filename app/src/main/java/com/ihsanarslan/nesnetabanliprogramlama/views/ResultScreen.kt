@@ -23,4 +23,5 @@ fun ResultScreen(navController: NavController,result:Float){
         }
         Text(modifier = Modifier.align(Alignment.Center),text = "Hesaplama sonucu : $result")
     }
+
 }
