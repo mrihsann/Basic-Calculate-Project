@@ -8,4 +8,5 @@ interface IHesapMakinasi {
     fun carp(sayi1:Int=0,sayi2:Int=0):Int
 
     fun bol(sayi1:Double,sayi2:Double):Double
+
 }
