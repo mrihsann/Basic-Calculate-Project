@@ -1,4 +1,4 @@
-package com.ihsanarslan.nesnetabanliprogramlama.navigation
+package com.ihsanarslan.nesnetabanliprogramlama.presentation.navigation
 
 import kotlinx.serialization.Serializable
 

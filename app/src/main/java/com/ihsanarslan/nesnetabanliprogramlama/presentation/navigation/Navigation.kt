@@ -1,12 +1,12 @@
-package com.ihsanarslan.nesnetabanliprogramlama.navigation
+package com.ihsanarslan.nesnetabanliprogramlama.presentation.navigation
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.toRoute
-import com.ihsanarslan.nesnetabanliprogramlama.views.CalculateScreen
-import com.ihsanarslan.nesnetabanliprogramlama.views.ResultScreen
+import com.ihsanarslan.nesnetabanliprogramlama.presentation.views.CalculateScreen
+import com.ihsanarslan.nesnetabanliprogramlama.presentation.views.ResultScreen
 
 @Composable
 fun Navigation(){
